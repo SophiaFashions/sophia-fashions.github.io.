@@ -1,0 +1,10 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff;
+    color: #ffc0cb; /* Pink text /
+}
+header {
+    background-color: #ff69b4; / Hot pink */
+    padding: 20px;
+    text-align: center;
+}
